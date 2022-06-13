@@ -34,21 +34,4 @@ Open following url.
 
   ## Explore apis 
 
-The app defines following APIs. 
- 
-```   
-    POST /api/signup   
-    POST /api/user
-    GET /api/user
-    PUT /api/user
-    GET /api/account
-    POST /api/transfer
-    GET /api/transaction      
-```
 
-## Frontend Repository
-
-- Please Find the frontend repository for the frontend code in angular. 
-```link
-    https://github.com/AbhayKatharotiya/BankingSystemFrontend.git
-```
